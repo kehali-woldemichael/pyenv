@@ -1,0 +1,4 @@
+[submodule "plugins/pyenv-virtualenv"]
+	path = plugins/pyenv-virtualenv
+	url = git@github.com:kehali-woldemichael/pyenv-virtualenv.git
+	branch = mbp
